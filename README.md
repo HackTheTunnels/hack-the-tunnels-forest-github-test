@@ -147,6 +147,8 @@ npm run dev
 - `component`: A component is like a LEGO piece. Each LEGO piece has a specific shape and purpose. When you build LEGO, you assemble these pieces in different ways to create what you need. With a website, these components can be combined in different ways to create different parts of a web page or application.
 - `relation`: Think of a "relation" as a connection or link between two things or people. In terms of a website, a customer can have multiple orders and have connections to them. Those orders can have multiple products which means connections to those products.
 
+Hellooo
+
 # More Useful Commands
 
 ## Open Prisma Studio
